@@ -9,3 +9,13 @@ The icons I used for the app are created by the Graphic Designer Ashley Jager.
 Link to her Repo: https://github.com/manifestinteractive/weather-underground-icons
 
 The API provider I used is http://www.OpenWeatherMap.org
+
+## Author
+
+- [Iden Han](https://idenhan.tistory.com/)
+
+## Technologies
+
+- JAVASCRIPT
+- CSS
+- HTML
