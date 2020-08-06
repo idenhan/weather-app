@@ -6,7 +6,6 @@ The app shows the weather information that it will get from the API like this, a
 When the user clicks on the temperature value, that will convert it from to Fahrenheit.
 
 The icons I used for the app are created by the Graphic Designer Ashley Jager.
-
 Link to her Repo: https://github.com/manifestinteractive/weather-underground-icons
 
 The API provider I used is http://www.OpenWeatherMap.org
